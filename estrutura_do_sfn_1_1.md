@@ -1,5 +1,5 @@
 
-1.1 Como o Sistema Financeiro Nacional Impacta o Crédito e a Cobrança nas Fintechs
+# 1.1 Como o Sistema Financeiro Nacional Impacta o Crédito e a Cobrança nas Fintechs
 
 
 **Objetivo:** Compreender a estrutura do SFN, o papel de seus órgãos reguladores e como fintechs e instituições de pagamento se encaixam nesse ecossistema. Vamos ligar cada ponto à realidade de concessão, **cobrança** e **recuperação de crédito**.
