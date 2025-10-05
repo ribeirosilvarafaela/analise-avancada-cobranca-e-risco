@@ -37,12 +37,6 @@ O **Open Finance** é uma iniciativa regulada pelo **BACEN** que permite o compa
 | **Piora da Economia/Inflação alta** | CMN define política mais restritiva; BACEN aumenta a **Taxa Selic**. | Fintechs reduzem concessões e elevam taxas. **Inadimplência cresce.** A cobrança precisa ser mais tecnológica e ágil (reduzir *time-to-contact*). |
 | **Melhora da Economia/Estímulo** | CMN define política de crédito mais frouxa; BACEN reduz a Selic. | Fintechs aumentam a concessão de crédito. **Risco futuro de inadimplência aumenta** devido à maior base de clientes. |
 
-## Mapa Mental
-
-![download.svg](attachment:5f453c69-ba25-4f1a-b20f-d1b0e6008d9d:download.svg)
-
----
-
 **Pergunta:** Se a Selic sobe, o que deve acontecer com: A oferta de crédito? A inadimplência? A estratégia de cobrança?
 
 | **Impacto** | **Explicação (Porquê)** | **Ação Tática na Cobrança** |
